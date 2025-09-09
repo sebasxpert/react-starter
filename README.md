@@ -25,6 +25,7 @@ This template gives you a **ready-to-go React environment** powered by Vite and 
 
 <p align="center">
   <img src="https://img.shields.io/badge/react%2019-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" />
+  <img src="https://img.shields.io/badge/tanstack%20router-green.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" />
   <img src="https://img.shields.io/badge/tailwind%204-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/jotai-white?style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/lucide%20icons-red.svg?style=for-the-badge&logo=lucide&logoColor=white" height="30" />
