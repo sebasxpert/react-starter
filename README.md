@@ -34,6 +34,7 @@ This template gives you a **ready-to-go React environment** powered by Vite and 
 
 <p align="center">
   <img src="https://img.shields.io/badge/vite%207-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/vitest-green.svg?style=for-the-badge&logo=vitest&logoColor=black" height="30" />
   <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=black" height="30" />
   <img src="https://img.shields.io/badge/eslint-yellow?style=for-the-badge&logo=eslint&logoColor=black" height="30" />
   <img src="https://img.shields.io/badge/prettier-yellow?style=for-the-badge&logo=prettier&logoColor=black" height="30" />
