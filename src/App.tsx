@@ -1,11 +1,11 @@
-import { useState } from 'react'
 import { ChevronDown } from 'lucide-react'
 import reactLogo from '@/assets/react.svg'
 import viteLogo from '/vite.svg'
 import tailwindLogo from '/tailwindcss.svg'
+import { useCount } from '@/store/count'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useCount()
 
   return (
     <main className="mx-auto flex min-h-dvh max-w-2xl flex-col items-center justify-center">
