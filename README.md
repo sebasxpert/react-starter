@@ -63,7 +63,7 @@ This template gives you a **ready-to-go React environment** powered by Vite and 
 ### Setup
 
 ```bash
-git clone https://github.com/sebasxpert/vite-react-tailwind-template.git <app name>
+git clone https://github.com/sebasxpert/react-starter.git <app name>
 cd <app name>
 pnpm install
 ```
@@ -99,7 +99,7 @@ node --run format
 ## 📁 Project Layout
 
 ```
-vite-react-tailwind-template/
+react-starter/
 ├── src/
 │   ├── main.tsx      # App entry
 │   ├── App.tsx       # Main component
