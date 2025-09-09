@@ -102,7 +102,7 @@ node --run format
 react-starter/
 ├── src/
 │   ├── main.tsx      # App entry
-│   ├── App.tsx       # Main component
+│   ├── /routes       # App routes
 │   └── index.css     # Global styles
 ├── public/           # Static assets
 ├── package.json
