@@ -19,7 +19,7 @@ function Index() {
           <img src={tailwindLogo} className="size-20" alt="TailwindCSS logo" />
         </a>
       </div>
-      <h1 className="my-2 text-3xl font-medium">Vite + React + Tailwind</h1>
+      <h1 className="my-2 text-3xl font-medium">React Starter</h1>
       <Counter />
       <ChevronDown className="my-2 text-neutral-800 dark:text-neutral-400" />
       <p className="text-sm text-neutral-800 dark:text-neutral-400">
